@@ -8,3 +8,4 @@ for(let i = 0; i < 100; i++){
 }
 
 console.log(xPositions);
+// print(xPositions);
